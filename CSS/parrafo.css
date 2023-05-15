@@ -1,0 +1,38 @@
+.tale{
+    color: #1821AC;
+    text-align: center;
+    font-family: 'anton';
+    text-shadow: 0px 0px 9px #508AD3;
+    margin-top:50px;
+    font-size: 100px;
+   
+}
+.parrafo2{
+    text-align: justify;
+    padding: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+h1{
+    font-size: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+h3{
+    color: #1821AC;
+}
+.buton{
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.btn{
+    height: 100px;
+    width: 300px;
+    font-size: 30px;
+    padding-top: 25px;
+    background-image: url(https://thumbs.dreamstime.com/b/aviones-azules-y-blancos-77846897.jpg);
+}

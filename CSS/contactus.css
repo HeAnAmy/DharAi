@@ -1,0 +1,15 @@
+
+.card{
+    margin: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+.card2{
+    text-align: justify;
+    align-items: center;
+}
+
+p ul li{
+    text-align: justify;
+}
